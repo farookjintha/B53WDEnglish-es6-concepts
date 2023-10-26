@@ -1,0 +1,13 @@
+Javascript - JS -> JS is a scripting language. (index.js)
+Typescript - TS -> TS is the parent of JS. It enables OOPs to be used in JS. (index.ts)
+ECMAScript - ES -> ES is a standard to be followed while programming in JS / TS.
+
+ES6 standards/ concepts
+
+var vs let vs const
+block scoping - setting up the boundaries within a block using curly braces (ex. if, for loop)
+spread & rest operators
+array & object destructure
+Object property shorthand
+Template literals
+Arrow functions
